@@ -24,4 +24,3 @@ antigen apply
 
 # Motd
 date | cowsay
-screenfetch
